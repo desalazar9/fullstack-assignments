@@ -13,8 +13,6 @@ let c = 40 - 1;
 //create string with message to vault opener
 let greeting ="You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
 
-//const userMessage = 'You have received this message because you have been chosen to open an important vault. Here is the secret combination: ${a} ${b} ${c}'
-//const userMessage='hello ${a}'
+//create dialog box
 
-''console.log({userMessage})
-alert(greeting a b c);
+alert(greeting+a+"-"+b+"-"+c);
