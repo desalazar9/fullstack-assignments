@@ -6,7 +6,7 @@ let a = 30 / 3;
 
 let b = 17 + 23;
 
-//create first variable using arithmetic operator equal to 39
+//create third variable using arithmetic operator equal to 39
 
 let c = 40 - 1;
 
